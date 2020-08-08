@@ -16,12 +16,6 @@ Features
 - Persistent highscore
 - Fog
 
-Possible future updates
+Future updates?
 -----------------------------
-- Release versions for different platforms
-- Adjust forward/sideways offset to feel better
-- Make the level design more interesting or challenging
-- Add a time aspect to the score to challenge the player to go fast
-- Start with a screen to fill in a player name
-- Show a highscore top 10
-- Sync highscores online
+[Project board](https://github.com/FishSt1ck-git/3d-block-dodger/projects/1)
