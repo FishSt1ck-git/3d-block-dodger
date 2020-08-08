@@ -19,3 +19,6 @@ Possible future tweaks
 - Adjust forward/sideways offset to feel better
 - Make the level design more interesting or challenging
 - Add a time aspect to the score to challenge the player to go fast
+- Start with a screen to fill in a player name
+- Show a highscore top 10
+- Sync highscores online
