@@ -10,6 +10,6 @@ public class CameraFollow : MonoBehaviour
         transform.position = new Vector3(
             player.position.x + offset.x, 
             player.position.y + offset.y, 
-            player.position.z + offset.z); // Camera follows the player with specified offset position
+            player.position.z + offset.z); 
     }
 }

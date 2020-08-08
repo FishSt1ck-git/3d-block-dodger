@@ -1,10 +1,11 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float movementOffset = 5;
-    
+    public float sidewayMovementOffset = 5;
+    public float forwardMovementOffset = 5;
+    public Rigidbody player;
+
     private InputMaster _controls;
     private Vector2 _movement;
 
@@ -16,7 +17,12 @@ public class PlayerMovement : MonoBehaviour
 
     public void FixedUpdate()
     {
-        transform.position += new Vector3(_movement.x * movementOffset * Time.deltaTime, 0, _movement.y * movementOffset * Time.deltaTime);
+        player.AddForce(_movement.x * forwardMovementOffset * Time.deltaTime, 0, _movement.y * sidewayMovementOffset * Time.deltaTime, ForceMode.VelocityChange);
+
+        if(player.transform.position.y < -1)
+        {
+            FindObjectOfType<GameManager>().EndGame();
+        }
     }
 
     public void OnEnable()
