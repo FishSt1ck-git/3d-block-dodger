@@ -1069,7 +1069,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b709162c74d18b840ae50b401cc32517, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sidewayMovementOffset: 50
+  sidewayMovementOffset: 30
   forwardMovementOffset: 200
   player: {fileID: 771883869}
 --- !u!114 &771883871
