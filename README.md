@@ -6,16 +6,19 @@ I followed the Brackeys - How to make a videogame tutorial (https://www.youtube.
 The game itself is a simple block dodging game to test out the basics in Unity.
 ![3d block dodger](https://github.com/FishSt1ck-git/3d-block-dodger/blob/master/3d%20block%20dodger.PNG)
 
-Functionality
+Goal
 -----------------------------
-- Travel as far as you can along the floating floor while dodging grey blocks
-- Control the red block with arrowkeys, WASD, controller dpad, controller analogue
-- Score measurement for distance traveled with persistant highscore
-- Grey blocks appear from the fog
-- "Game Over" condition for collision or falling
+Get the highscore of longest distance traveled without touching any obstacles or falling off the platform
 
-Possible future tweaks
+Features
 -----------------------------
+- Support for both keyboard (arrow/WASD) and controller (dpad/analogue)
+- Persistent highscore
+- Fog
+
+Possible future updates
+-----------------------------
+- Release versions for different platforms
 - Adjust forward/sideways offset to feel better
 - Make the level design more interesting or challenging
 - Add a time aspect to the score to challenge the player to go fast
