@@ -1,16 +1,18 @@
 # Game #1 - 3d Block Dodger
 
-This is my first try at some video game development in Unity.
-I followed the Brackeys - How to make a videogame tutorial (https://www.youtube.com/watch?v=IlKaB1etrik)
+This is my first try at some video game development in Unity. Although I've been a C# dev for quite some time, I was surprised to see that the development just seems like a minor part. There's so much things that I don't know yet, so a lot of things to learn.
+
+To start getting familiar with Unity, I followed a tutorial by the great Brackeys:
+How to make a videogame tutorial (https://www.youtube.com/watch?v=IlKaB1etrik)
 
 What I learned from this
 -----------------------------
 - The Unity UI basics
 - How scripts are called and work
-- Input handling (although I used the newer system instead of the one used here)
+- Input handling (although I used the newer system instead of the one used in the tutorial)
 - Basic object manipulation
-- Adding UI components
 - Boxcolliders and collisions handling
+- Adding UI components
 
 The game
 -----------------------------
