@@ -2,8 +2,7 @@
 
 This is my first try at some video game development in Unity. Although I've been a C# dev for quite some time, I was surprised to see that the development just seems like a minor part. There's so much things that I don't know yet, so a lot of things to learn.
 
-To start getting familiar with Unity, I followed a tutorial by the great Brackeys:
-How to make a videogame tutorial (https://www.youtube.com/watch?v=IlKaB1etrik)
+To start getting familiar with Unity, I followed a [tutorial](https://www.youtube.com/watch?v=IlKaB1etrik) by the great Brackeys. I didn't know who that was until I decided to do something with Unity. It became clear very fast that this man is a legend in the community. 
 
 What I learned from this
 -----------------------------
