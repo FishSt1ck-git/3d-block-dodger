@@ -5,7 +5,7 @@ I followed the Brackeys - How to make a videogame tutorial (https://www.youtube.
 
 What I learned from this
 -----------------------------
-- The Unity UI
+- The Unity UI basics
 - How scripts are called and work
 - Input handling (although I used the newer system instead of the one used here)
 - Basic object manipulation
@@ -25,4 +25,3 @@ Features
 -----------------------------
 - Support for both keyboard (arrow/WASD) and controller (dpad/analogue)
 - Persistent highscore
-- Fog
