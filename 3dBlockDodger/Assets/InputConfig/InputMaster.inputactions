@@ -2,7 +2,7 @@
     "name": "InputMaster",
     "maps": [
         {
-            "name": "NecroGuy",
+            "name": "Player",
             "id": "93636faf-8007-488b-a00f-fff2a1c43850",
             "actions": [
                 {
