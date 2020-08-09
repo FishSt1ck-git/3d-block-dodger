@@ -26,7 +26,3 @@ Features
 - Support for both keyboard (arrow/WASD) and controller (dpad/analogue)
 - Persistent highscore
 - Fog
-
-Future updates?
------------------------------
-[Project board](https://github.com/FishSt1ck-git/3d-block-dodger/projects/1)
